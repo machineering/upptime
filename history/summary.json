@@ -4,17 +4,19 @@
     "url": "https://kubernetes.machineering.de",
     "icon": "https://icons.duckduckgo.com/ip3/kubernetes.machineering.de.ico",
     "slug": "virtual-commissioning-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 932,
-    "timeDay": 786,
-    "timeWeek": 995,
-    "timeMonth": 932,
-    "timeYear": 932,
-    "dailyMinutesDown": {}
+    "time": 928,
+    "timeDay": 793,
+    "timeWeek": 970,
+    "timeMonth": 928,
+    "timeYear": 928,
+    "dailyMinutesDown": {
+      "2025-01-08": 0
+    }
   }
 ]
