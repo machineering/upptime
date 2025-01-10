@@ -6,15 +6,15 @@
     "slug": "virtual-commissioning-cloud",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 924,
-    "timeDay": 830,
-    "timeWeek": 905,
-    "timeMonth": 924,
-    "timeYear": 924,
+    "time": 923,
+    "timeDay": 892,
+    "timeWeek": 915,
+    "timeMonth": 942,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-01-08": 7
     }
