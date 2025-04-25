@@ -1,7 +1,7 @@
 url: https://kubernetes.machineering.de
-status: down
-code: 503
-responseTime: 1352
-lastUpdated: 2025-04-25T11:50:46.363Z
+status: up
+code: 200
+responseTime: 781
+lastUpdated: 2025-04-25T11:57:24.657Z
 startTime: 2024-12-09T07:23:00.574Z
 generator: Upptime <https://github.com/upptime/upptime>
